@@ -2,6 +2,8 @@
 #include <stdbool.h>
 #include "tm4c123gh6pm.h"
 
+//test comment
+
 //Using M1PWM6, on Pin PF2; controlled by M1PWM6, controlled by Module 1 PWM Generator 3.
 
 void PortFConfig(void);
